@@ -11,15 +11,12 @@ Scarcity.So our project is helpful for this type of problem.
 
 
 AIMS AND OBJECTIVES
-• We aim to bridge the gap between blood donors and requestors.
-• We'll be providing service as donner contact information.
-• Details of those registered with us, to be useful for people who are searching for blood donors.
+We aim to bridge the gap between blood donors and requestors,We'll be providing service as donner contact information and details of those registered with us, to be useful for people who are searching for blood donors.
 
-
-# Features of project
-1)Admin Features
-2)Employee Features
-3)Individual users  Features
+Features of project
+  1)Admin Features
+  2)Employee Features
+  3)Individual users  Features
 
 Employee Features
 i. Can see donor list.
@@ -48,13 +45,13 @@ vi.See registered donor and users.
 vii.Admin can change the content of website and manage website.
 
 
-# Technology used in front end
+## Technology used in front end
 1.HTML
 2.CSS
 3.Javascript
 4.Bootstrap
 
-# Technology used in backend
+## Technology used in backend
 1)PHP
 2)MYSQL Database
 3)AMAZON Cloud service(AWS)
