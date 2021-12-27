@@ -10,7 +10,7 @@ Available in blood bank. So people are facing blood
 Scarcity.So our project is helpful for this type of problem.
 
 
-AIMS AND OBJECTIVES
+AIMS AND OBJECTIVES:
 We aim to bridge the gap between blood donors and requestors,We'll be providing service as donner contact information and details of those registered with us, to be useful for people who are searching for blood donors.
 
 Features of project
@@ -18,7 +18,7 @@ Features of project
   2)Employee Features
   3)Individual users  Features
 
-Employee Features
+Employee Features:
 i. Can see donor list.
 ii.Can see stored blood information.
 iii.Manage issue report.
